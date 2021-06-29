@@ -30,3 +30,5 @@ Python3
 
 ## Conclusion
   Scraped data such as movie name, tear of release, imdb ratings, duration of the movie, certification, genre,votes and metascores of 550 movies and data frames were created to store the data in a tabular form. 
+  
+ ###### Information sources : Internet
