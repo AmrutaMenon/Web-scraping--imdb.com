@@ -13,3 +13,13 @@
 6. Movie genre
 7. Votes
 8. Metascore
+
+## Programming Language 
+Python3
+
+## Libraries imported:
+
+1. requests
+2. BeautifulSoup
+3. time
+4. pandas
